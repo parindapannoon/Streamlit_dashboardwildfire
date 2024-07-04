@@ -1,0 +1,19 @@
+GID_0,NAME_0,GID_1,NAME_1,VARNAME_1,NL_NAME_1,TYPE_1,ENGTYPE_1,CC_1,HASC_1,Field,Region,Burned_Are,of_Fires
+PRT,Portugal,PRT.1_1,Aveiro,,,Distrito,District,"01",PT.AV,2756.89,Aveiro,1.586,0.003
+PRT,Portugal,PRT.3_1,Beja,,,Distrito,District,"02",PT.BE,10262.8,Beja,0.545,0.001
+PRT,Portugal,PRT.4_1,Braga,,,Distrito,District,"03",PT.BR,2704.12,Braga,1.475,0.01
+PRT,Portugal,PRT.5_1,Bragança,Braganza,,Distrito,District,"04",PT.BA,6596.61,Bragança,0.91,0.002
+PRT,Portugal,PRT.6_1,Castelo Branco,,,Distrito,District,"05",PT.CB,6626.81,Castelo Branco,1.937,0.001
+PRT,Portugal,PRT.7_1,Coimbra,,,Distrito,District,"06",PT.CO,3972.59,Coimbra,2.539,0.002
+PRT,Portugal,PRT.8_1,Évora,,,Distrito,District,,PT.EV,7393.04,Évora,0.233,0.001
+PRT,Portugal,PRT.9_1,Faro,,,Distrito,District,"08",PT.FA,4965.66,Faro,1.753,0.001
+PRT,Portugal,PRT.10_1,Guarda,,,Distrito,District,"09",PT.GU,5534.41,Guarda,2.458,0.004
+PRT,Portugal,PRT.11_1,Leiria,,,Distrito,District,,PT.LE,3496.31,Leiria,1.529,0.002
+PRT,Portugal,PRT.12_1,Lisboa,Lisbon|Lisbona|Lisbonne|Lissabon,,Distrito,District,,PT.LI,2761.17,Lisboa,0.226,0.002
+PRT,Portugal,PRT.14_1,Portalegre,,,Distrito,District,,PT.PA,6083.84,Portalegre,1.006,0.001
+PRT,Portugal,PRT.15_1,Porto,Oporto,,Distrito,District,,PT.PO,2329.56,Porto,1.796,0.009
+PRT,Portugal,PRT.16_1,Santarém,,,Distrito,District,,PT.SA,6716.62,Santarém,1.35,0.002
+PRT,Portugal,PRT.17_1,Setúbal,,,Distrito,District,,PT.SE,5020.96,Setúbal,0.139,0
+PRT,Portugal,PRT.18_1,Viana do Castelo,Vianna do Castello,,Distrito,District,,PT.VC,2218.03,Viana do Castelo,3.337,0.011
+PRT,Portugal,PRT.19_1,Vila Real,Villa Real,,Distrito,District,,PT.VR,4307.29,Vila Real,2.39,0.008
+PRT,Portugal,PRT.20_1,Viseu,Vizeu,,Distrito,District,,PT.VI,5009.66,Viseu,2.519,0.006
