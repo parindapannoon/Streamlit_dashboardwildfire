@@ -1,9 +1,12 @@
-# Streamlit_dashboardwildfire
-
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://appdashboardwildfire-uvch9r5rhparinda.streamlit.app/)
+# Installation
 ```
 pip install streamlit
 ```
+```
+pip install streamlit-folium
+```
+Run an app
 ```
 streamlit run f.py
 ```
